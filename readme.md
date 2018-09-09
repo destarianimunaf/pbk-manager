@@ -27,3 +27,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
 
 ## README.MD
+The system is using Laravel Framework. The steps you can do in here bellow:
+1. Clone and download file
+2. Extract all
+3. Open the directory using CMD to file location
+4. "php artisan migrate"
+5. Database migrated
+6. Login
